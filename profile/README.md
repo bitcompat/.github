@@ -3,8 +3,8 @@
 This project aims to provide 100% open-source drop-in replacement
 images for bitnami-packaged docker images.
 
-The provided images are hand-written and curated, with the same features,
-pre-installed software and directory structure and they are comparable
+The provided images are handwritten and curated, with the same features,
+pre-installed software and directory structure, and they are comparable
 in size (same size of the bitnami ones or smaller).
 
 ## Why?
@@ -49,11 +49,16 @@ be released.
 
 As this is a very yoing project, only a few images have been published
 
-- PHP-FPM (7.4, 8.0, 8.1)
-- PostgreSQL (10, 11, 12, 13, 14)
-- Redis (6, 7)
+- [PHP-FPM](https://github.com/bitcompat/php-fpm) (7.4, 8.0, 8.1)
+- [PostgreSQL](https://github.com/bitcompat/postgresql) (10, 11, 12, 13, 14)
+- [Redis](https://github.com/bitcompat/redis) (6, 7)
 
 but many others are planned!
+
+## Where?
+
+All the images are published on GitHub Registry and on AWS Public ECR Gallery.  
+Further information are present on the images' README files.
 
 ## Contributions
 
