@@ -49,6 +49,7 @@ be released.
 
 As this is a very yoing project, only a few images have been published
 
+- [Nginx](https://github.com/bitcompat/nginx) (1.22, 1.23)
 - [PHP-FPM](https://github.com/bitcompat/php-fpm) (7.4, 8.0, 8.1)
 - [PostgreSQL](https://github.com/bitcompat/postgresql) (10, 11, 12, 13, 14)
 - [Redis](https://github.com/bitcompat/redis) (6, 7)
