@@ -53,6 +53,7 @@ As this is a very yoing project, only a few images have been published
 - [Nginx Prometheus Exporter](https://github.com/bitcompat/nginx-exporter) (0.11)
 - [PHP-FPM](https://github.com/bitcompat/php-fpm) (7.4, 8.0, 8.1)
 - [PostgreSQL](https://github.com/bitcompat/postgresql) (10, 11, 12, 13, 14)
+- [Postgres Prometheus Exporter](https://github.com/bitcompat/postgres-exporter) (0.11)
 - [Redis](https://github.com/bitcompat/redis) (6, 7)
 
 but many others are planned!
