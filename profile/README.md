@@ -47,14 +47,17 @@ be released.
 
 ## What?
 
-As this is a very yoing project, only a few images have been published
+As this is a very young project, only a few images have been published
 
+- [Java](https://github.com/bitcompat/java) (11, 17, 18, 19)
+- [Kafka](https://github.com/bitcompat/kafka) (3.1, 3.2, 3.3)
 - [Nginx](https://github.com/bitcompat/nginx) (1.22, 1.23)
 - [Nginx Prometheus Exporter](https://github.com/bitcompat/nginx-exporter) (0.11)
 - [PHP-FPM](https://github.com/bitcompat/php-fpm) (7.4, 8.0, 8.1)
-- [PostgreSQL](https://github.com/bitcompat/postgresql) (10, 11, 12, 13, 14)
 - [Postgres Prometheus Exporter](https://github.com/bitcompat/postgres-exporter) (0.11)
+- [PostgreSQL](https://github.com/bitcompat/postgresql) (10, 11, 12, 13, 14)
 - [Redis](https://github.com/bitcompat/redis) (6, 7)
+- [Zookeeper](https://github.com/bitcompat/zookeeper) (3.8, 3.7, 3.6)
 
 but many others are planned!
 
@@ -93,5 +96,5 @@ All the code published here is licensed under MIT license.
 Bitnami is a registered trademark of VMware, Inc.  
 This project is NOT related to or endorsed by Bitnami or its affiliates.
 
-The packaged softwares retain their own licenses, which are present
+The packaged software retain their own licenses, which are present
 inside the package itself.
