@@ -49,13 +49,19 @@ be released.
 
 As this is a very young project, only a few images have been published
 
+- [Gitlab Runner Helper](https://github.com/bitcompat/gitlab-runner-helper)
 - [Java](https://github.com/bitcompat/java) (11, 17, 18, 19)
 - [Kafka](https://github.com/bitcompat/kafka) (3.1, 3.2, 3.3)
+- [Memcached](https://github.com/bitcompat/memcached) (1.6)
+- [MySQL](https://github.com/bitcompat/mysql) (5.7, 8.0, 8.1)
 - [Nginx](https://github.com/bitcompat/nginx) (1.22, 1.23)
 - [Nginx Prometheus Exporter](https://github.com/bitcompat/nginx-exporter) (0.11)
+- [Node.JS](https://github.com/bitcompat/node) (20, 19, 18, 17, 16, 15, 14)
+- [Pgbouncer](https://github.com/bitcompat/pgbouncer)
 - [PHP-FPM](https://github.com/bitcompat/php-fpm) (7.4, 8.0, 8.1)
 - [Postgres Prometheus Exporter](https://github.com/bitcompat/postgres-exporter) (0.11)
 - [PostgreSQL](https://github.com/bitcompat/postgresql) (10, 11, 12, 13, 14)
+- [Python](https://github.com/bitcompat/python) (3.7, 3.8, 3.9, 3.10, 3.11)
 - [Redis](https://github.com/bitcompat/redis) (6, 7)
 - [Zookeeper](https://github.com/bitcompat/zookeeper) (3.8, 3.7, 3.6)
 
